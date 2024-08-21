@@ -4,10 +4,3 @@ I'm Rafael, a student of programming, music, music production, and video editing
 
 # Fun fact:
 I find Git harder than Java and C.
-
-# Statistics
-<div>
-<a href="https://github.com/rafaelsantosmp4">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
