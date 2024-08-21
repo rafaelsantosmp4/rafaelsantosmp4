@@ -1,6 +1,8 @@
 # Hello! 🎹
 
-I'm Rafael, a student of programming, music, and video editing. I'm passionate about computers and always looking to learn more! Here, I'm planning to share my learning projects, so I can show my journey in the future. 🤓
+I'm Rafael, a student of programming, music, and video editing. I'm passionate about computers and always looking to learn more! Here, I'm planning to share my learning projects, so I can show my journey in the future. 🤓<br>
+<img src="https://github.com/user-attachments/assets/9ffac2ca-ab33-4fd5-a725-88dd135db844" alt="shrek-icegif-24" width="200" height="100"/>
+
 
 # Fun fact:
 I find Git harder than Java and C. <br>
