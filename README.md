@@ -3,7 +3,9 @@
 I'm Rafael, a student of programming, music, and video editing. I'm passionate about computers and always looking to learn more! Here, I'm planning to share my learning projects, so I can show my journey in the future. 🤓
 
 # Fun fact:
-I find Git harder than Java and C.
+I find Git harder than Java and C. <br>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"/>
 
 # Statistics:
 <div>
