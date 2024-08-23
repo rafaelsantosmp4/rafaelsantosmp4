@@ -10,6 +10,10 @@ I'm Rafael, a student of programming, music, and video editing. I'm passionate a
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C basic">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python basic">
   <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg" title="MySQL basic">
+  <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" title="Premiere">
+  <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" title="After Effects basic">
+  <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop">
+  <img align="center" height="40" width="30" src="https://wallpapers.com/images/high/f-l-studio-logo-icon-bywujcetpfezokh6.png" title="FL Studio">
 </div>
 
 # Statistics:
