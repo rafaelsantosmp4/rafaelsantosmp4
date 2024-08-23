@@ -3,7 +3,7 @@
 I'm Rafael, a student of programming, music, and video editing. I'm passionate about computers and always looking to learn more! Here, I'm planning to share my learning projects, so I can show my journey in the future. 🤓<br>
 <img src="https://github.com/user-attachments/assets/9ffac2ca-ab33-4fd5-a725-88dd135db844" alt="shrek-icegif-24" width="200" height="100"/>
 <div style="display: inline_block">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/349474/php.svg" title="PHP">
