@@ -24,3 +24,5 @@ I'm Rafael, a student of programming, music, and video editing. I'm passionate a
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantosmp4&layout=compact&langs_count=6&theme=dark&border_radius=20"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmp4&show_icons=true&border_radius=20&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
+[![Supcom Status](https://api.netlify.com/api/v1/badges/8c0d7043-f85d-437e-ac29-985c28ce4696/deploy-status)](https://app.netlify.com/sites/supcom/deploys)
