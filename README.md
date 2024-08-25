@@ -21,6 +21,6 @@ I'm Rafael, a student of programming, music, and video editing. I'm passionate a
 # Statistics:
 <div>
 <a href="https://github.com/rafaelsantosmp4">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantosmp4&layout=compact&langs_count=6&theme=dark&border_radius=20"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantosmp4&layout=compact&langs_count=6&theme=dark&border_radius=19"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmp4&show_icons=true&border_radius=20&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
