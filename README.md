@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/767cfbb5-1da1-4d6a-bab0-3baa435d6912" alt="shrek-icegif-24" width="100%" height="350px"/>
+<img src="https://github.com/user-attachments/assets/767cfbb5-1da1-4d6a-bab0-3baa435d6912" alt="shrek-icegif-24" width="100%" height='300'/>
 
 # Hello! 🎹
 
