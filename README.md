@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/767cfbb5-1da1-4d6a-bab0-3baa435d6912" alt="shrek-icegif-24" width="100%" height='300'/>
-
 # Hello! 🎹
 
 I'm Rafael, a student of programming, music, and video editing. I'm passionate about computers and always looking to learn more! Here, I'm planning to share my learning projects, so I can show my journey in the future. 🤓<br>
