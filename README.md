@@ -15,8 +15,3 @@ I'm Rafael, a student of programming, music, and video editing. I'm passionate a
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop">
   <img align="center" height="40" width="30" src="https://wallpapers.com/images/high/f-l-studio-logo-icon-bywujcetpfezokh6.png" title="FL Studio">
 </div>
-
-# Statistics:
-<div width='100%'>
-<center><img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantosmp4&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=19"/></center>
-</div>
